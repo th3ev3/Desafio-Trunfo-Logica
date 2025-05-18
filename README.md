@@ -53,8 +53,6 @@ Substitua cartas.c pelo nome do seu arquivo principal, se necessário.
 Exemplo de Execução
 O jogador escolhe o primeiro atributo:
 
-Copiar
-Editar
 1 - População
 2 - Área
 3 - Densidade Demográfica
